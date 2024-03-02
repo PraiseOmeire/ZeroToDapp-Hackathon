@@ -38,6 +38,7 @@ yarn-error.log*
 *.tsbuildinfo
 
 # Yarn
+.yarn
 .yarnrc.yml
 .yarn/*
 !.yarn/patches
