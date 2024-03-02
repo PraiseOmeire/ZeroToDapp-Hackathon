@@ -1,4 +1,4 @@
-import { Key, useState } from "react";
+import { useState } from "react";
 import Modal from "./Modal";
 
 const ImageGallery = ({ images }: any) => {
