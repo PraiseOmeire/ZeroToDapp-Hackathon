@@ -37,7 +37,6 @@ const Modal = ({ isOpen, closeModal, imageData }: ModalProps) => {
         >
           {imageData ? (
             <div>
-              {/* Display your modal content using modalData */}
               <h2>{`Image ${imageData + 1}`}</h2>
               <p>Description or other details </p>
             </div>
